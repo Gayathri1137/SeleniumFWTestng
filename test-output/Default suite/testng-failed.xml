@@ -5,7 +5,11 @@
     <classes>
       <class name="com.automation.tests.AutomationScripts">
         <methods>
-          <include name="logoutFromSalesforce"/>
+          <include name="CreateNewView"/>
+          <include name="UsernameField"/>
+          <include name="EditView"/>
+          <include name="testLeadsTab"/>
+          <include name="CheckBox"/>
           <include name="tearDownAfterMethod"/>
           <include name="setUpBeforeMethod"/>
         </methods>

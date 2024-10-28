@@ -1,0 +1,5 @@
+20241027 16:37:15 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - All user menu dropdown options are displayed correctly.
+20241027 22:35:11 INFO  [main] tests.AutomationScripts AutomationScripts.java149 - Switched to Developer Console window
+20241027 22:35:11 INFO  [main] tests.AutomationScripts AutomationScripts.java154 - Developer Console window is closed
+20241027 22:35:11 INFO  [main] tests.AutomationScripts AutomationScripts.java156 - Switched back to the main window
+20241027 22:36:16 INFO  [main] tests.AutomationScripts AutomationScripts.java124 - All user menu dropdown options are displayed correctly.
